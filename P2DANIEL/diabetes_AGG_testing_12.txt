@@ -1,0 +1,55 @@
+Introduzca conjunto de datos o FIN para terminar la ejecución:Launching partition  0
+Test size:  154
+Train size:  614
+Mejor valor fitness:  0.6388436482084691 Tasa de clasificación:  0.5798045602605864  Tasa de reduccion:  0.875  Indice:  36  Cromosoma:  [0.         0.         0.38553209 0.         0.         0.01981796
+ 0.08923723 0.        ]
+Tiempo de ejecucion AGG BLX_alpha:  117.65682888031006
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6685064935064935  Tasa de clasificación:  0.6168831168831169  Tasa de reduccion:  0.875
+Mejor valor fitness:  0.6162052117263844 Tasa de clasificación:  0.6140065146579805  Tasa de reduccion:  0.625  Indice:  8  Cromosoma:  [0.03528729 0.09573386 0.29294851 0.03700996 0.02956529 0.09512037
+ 0.2191257  0.54125155]
+Tiempo de ejecucion AGG BLX_alpha:  104.50691890716553
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6704545454545454  Tasa de clasificación:  0.6818181818181818  Tasa de reduccion:  0.625
+Launching partition  1
+Test size:  154
+Train size:  614
+Mejor valor fitness:  0.6552931596091205 Tasa de clasificación:  0.6628664495114006  Tasa de reduccion:  0.625  Indice:  20  Cromosoma:  [0.02808227 0.62417879 0.         0.         0.05089313 0.51469024
+ 0.         0.39357869]
+Tiempo de ejecucion AGG BLX_alpha:  103.51745629310608
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6704545454545454  Tasa de clasificación:  0.6818181818181818  Tasa de reduccion:  0.625
+Mejor valor fitness:  0.6448697068403909 Tasa de clasificación:  0.6498371335504886  Tasa de reduccion:  0.625  Indice:  46  Cromosoma:  [0.07442125 0.86817949 0.05903124 0.04656234 0.09876562 0.67119423
+ 0.         0.18034404]
+Tiempo de ejecucion AGG BLX_alpha:  103.09456706047058
+Probamos en conjunto test: 
+Mejor valor fitness:  0.7224025974025974  Tasa de clasificación:  0.7467532467532467  Tasa de reduccion:  0.625
+Launching partition  2
+Test size:  154
+Train size:  614
+Mejor valor fitness:  0.6855048859934854 Tasa de clasificación:  0.6693811074918566  Tasa de reduccion:  0.75  Indice:  15  Cromosoma:  [0.35314388 0.09848502 0.01628042 0.04074251 0.06420473 0.
+ 0.01788058 0.77659071]
+Tiempo de ejecucion AGG BLX_alpha:  102.7269675731659
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6590909090909092  Tasa de clasificación:  0.6363636363636364  Tasa de reduccion:  0.75
+Mejor valor fitness:  0.6696254071661237 Tasa de clasificación:  0.6807817589576547  Tasa de reduccion:  0.625  Indice:  16  Cromosoma:  [1.         0.56546871 0.00537301 0.06483171 0.08193257 0.09539473
+ 0.0791807  0.69275325]
+Tiempo de ejecucion AGG BLX_alpha:  102.5174663066864
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6496753246753247  Tasa de clasificación:  0.6558441558441559  Tasa de reduccion:  0.625
+Launching partition  3
+Test size:  154
+Train size:  614
+Mejor valor fitness:  0.7521986970684038 Tasa de clasificación:  0.7214983713355049  Tasa de reduccion:  0.875  Indice:  41  Cromosoma:  [0.03998788 0.08952202 0.         0.         0.08384173 0.
+ 0.         0.78227767]
+Tiempo de ejecucion AGG BLX_alpha:  102.34881234169006
+Probamos en conjunto test: 
+Mejor valor fitness:  0.7412337662337661  Tasa de clasificación:  0.7077922077922078  Tasa de reduccion:  0.875
+Mejor valor fitness:  0.6917752442996743 Tasa de clasificación:  0.7084690553745928  Tasa de reduccion:  0.625  Indice:  42  Cromosoma:  [0.01695097 0.24371599 0.01221937 0.09391794 0.32326573 0.6512254
+ 0.09226549 0.09862411]
+Tiempo de ejecucion AGG BLX_alpha:  103.10066676139832
+Probamos en conjunto test: 
+Mejor valor fitness:  0.7587662337662339  Tasa de clasificación:  0.7922077922077922  Tasa de reduccion:  0.625
+Launching partition  4
+Test size:  152
+Train size:  616
