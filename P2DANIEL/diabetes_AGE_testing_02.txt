@@ -1,0 +1,99 @@
+Introduzca conjunto de datos o FIN para terminar la ejecución:Launching partition  0
+Devolvemos test labels:  ['tested_positive' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative']
+Test set size:  154
+Train set size:  614
+Test labels:  ['tested_positive' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_positive'
+ 'tested_negative' 'tested_negative' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_positive'
+ 'tested_positive' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative' 'tested_negative' 'tested_negative'
+ 'tested_negative' 'tested_negative' 'tested_positive' 'tested_negative'
+ 'tested_negative' 'tested_positive' 'tested_negative' 'tested_negative'
+ 'tested_positive' 'tested_negative']
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
+Pasamos a la siguiente vuelta:  0.5495114006514659 [0.04990803 0.02905626 0.06470691 0.08355318 0.3940966  0.80581822
+ 0.88542623 0.82314587]
